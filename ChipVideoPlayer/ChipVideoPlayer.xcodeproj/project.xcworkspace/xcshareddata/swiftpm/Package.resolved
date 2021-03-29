@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ChipSwiftUIViews",
+        "repositoryURL": "https://github.com/benzai/ChipSwiftUIViews",
+        "state": {
+          "branch": null,
+          "revision": "5f378d59fd0806b9da897fce4306c44aae04f446",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "bbc4bc4def7eb05a7ba8e1219f80ee9be327334e",
+          "version": "6.2.1"
+        }
+      },
+      {
+        "package": "PanModal",
+        "repositoryURL": "https://github.com/slackhq/PanModal",
+        "state": {
+          "branch": null,
+          "revision": "b012aecb6b67a8e46369227f893c12544846613f",
+          "version": "1.2.7"
+        }
+      },
+      {
+        "package": "R.swift.Library",
+        "repositoryURL": "https://github.com/mac-cain13/R.swift.Library",
+        "state": {
+          "branch": null,
+          "revision": "8998cfe77f4fce79ee6dfab0c88a7d551659d8fb",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
