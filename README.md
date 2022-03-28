@@ -2,6 +2,77 @@
 
 App development projects by Benny Chew.
 
+## My coding background
+
+My app development background.
+
+### Experience with
+
+- iOS development (Swift)
+- Front-end development, in particular responsive websites
+- React, in particular Gatsby: ES5/ES6, arrow functions, class components, functional components, routing, hooks, useState, useEffect, Redux, Context, Styled Components/Emotion, CSS modules, TypeScript, create-react-app
+- Sanity CMS and Contentful
+- HTML/CSS: SASS (SCSS), Flex box, Grid, Tailwind
+- Git (basics)
+- Tools: Xcode, VSCode, iTerm, Postman, Insomnia, GitHub Desktop
+
+### Basic experience
+
+- TypeScript
+- Redux
+- React Native
+- Web animation (GSAP for example)
+- Storybook
+- Chrome Dev Tools
+- Gatsby Cloud, Netlify, Heroku, Mongo Atlas
+- Fundamental design patterns (MVC, MVVM, Reactive/Functional programming, Provider, SOLID, DRY, etc)
+
+### Limited experience (but understanding the core concepts)
+
+- Advanced React, for example: Higher Order Components, web components, portals
+- Form accessibility (Aria)
+- Unit testing (only basic experience with unit testing in Swift and Jest)
+- Working in development teams (Scrum), I have worked with development teams before but not really in the scrum/GitHub way (pull requests etc)
+
+If possible I would like to gain experience with the above!
+
+### Zero to no experience (yet)
+
+- DevOps
+- Advanced Git commands
+- Performance profiling (Chrome Dev Tools)
+- Backend development
+- Advanced design patterns
+
+As always, open to learning new things.
+
+### Also dabbled with (just for learning purposes)
+
+- Node/Mongo basics, building a simple Rest API with Express JS
+- Angular basics
+- Firebase basics
+- AWS basics
+- Flutter, I was very interested in Flutter so I spent a few weeks to a month learning Flutter, but in the end I prefer native iOS dev
+- Xamarin, A mobile app UI/UX client asked to me help build the app front-end in Xamarin, so I had to learn the basics (this part of the project got cancelled eventually)
+
+### Learning sources
+
+- Smashing Magazine / CSS Tricks
+- RayWenderlich (iOS)
+- Donny Wals, Swift by Sundell, Hacking with Swift (iOS)
+- Reading documentation
+- StackOverflow / Google
+- Twitter / YouTube
+
+### Before I specialized in UX/UI (more than 10 years ago)
+
+- Flash development
+- Bootstrap/Foundation
+- Gulp/Grunt
+- PHP and MySQL
+- 3D Modeling (Maya)
+- FTP
+
 ## chip2x-website-gatsby
 
 Internal project: Company website of ChipChip.
@@ -67,6 +138,27 @@ https://add-onn.com
 
 - UI/UX design and front-end development by Benny Chew.
 - Icon design and illustration by Jenneke Choe.
+
+---
+
+## CoinDuck
+
+Internal project (indie): Prototype cryptocurrency iOS app.
+
+### App architecture
+
+- MVVM
+
+### Technologies
+
+- Swift
+- SwiftUI
+- CoreData
+- UserDefaults
+
+### Notes
+
+This is an internal project for an indie prototype cryptocurrency iOS app. This is my 3rd attempt of building this app in 3 years time. The focus was to learn the required technologies of this app (saving coins in multiple lists on a user device).
 
 ---
 
