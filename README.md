@@ -75,7 +75,9 @@ As always, open to learning new things.
 
 ### Contact
 
-benny@chipchip.nl
+- Email: benny@chipchip.nl
+- LinkedIn: https://www.linkedin.com/in/benzai/
+- Location: Rotterdam, The Netherlands
 
 ---
 
@@ -96,8 +98,8 @@ https://chipchip.design
 
 ### Credits
 
-- UI/UX design and front-end development by Benny Chew.
-- Icon design and illustration by Jenneke Choe.
+- UI/UX design and front-end development by Benny Chew
+- Icon design and illustration by Jenneke Choe
 
 ### Notes
 
@@ -142,8 +144,8 @@ https://add-onn.com
 
 ### Credits
 
-- UI/UX design and front-end development by Benny Chew.
-- Icon design and illustration by Jenneke Choe.
+- UI/UX design and front-end development by Benny Chew
+- Icon design and illustration by Jenneke Choe
 
 ---
 
