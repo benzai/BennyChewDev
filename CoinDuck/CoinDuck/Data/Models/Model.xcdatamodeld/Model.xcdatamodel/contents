@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21C52" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UserCoin" representedClassName="UserCoin" syncable="YES">
+        <attribute name="raw_coinId" optional="YES" attributeType="String"/>
+        <attribute name="raw_collectionId" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="raw_dateCreated" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="raw_id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <relationship name="raw_partOfCollections" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="UserCollection" inverseName="raw_userCoins" inverseEntity="UserCollection"/>
+    </entity>
+    <entity name="UserCollection" representedClassName="UserCollection" syncable="YES">
+        <attribute name="raw_collectionTypeValue" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="raw_dateCreated" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="raw_entityTypeValue" optional="YES" attributeType="String"/>
+        <attribute name="raw_id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="raw_title" optional="YES" attributeType="String"/>
+        <relationship name="raw_userCoins" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="UserCoin" inverseName="raw_partOfCollections" inverseEntity="UserCoin"/>
+    </entity>
+    <elements>
+        <element name="UserCoin" positionX="-54" positionY="54" width="128" height="104"/>
+        <element name="UserCollection" positionX="-63" positionY="18" width="128" height="119"/>
+    </elements>
+</model>

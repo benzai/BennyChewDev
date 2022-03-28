@@ -1,0 +1,29 @@
+/* English (en) */
+
+/* System */
+"locale" = "English";
+
+/* UI */
+"ui_version" = "Version";
+"ui_copyright" = "Copyright © CoinDuck";
+"ui_state_loading" = "Loading";
+"ui_state_error" = "Error: Something went wrong.";
+"ui_action_close" = "Close";
+"ui_action_back" = "Back";
+
+/* Settings Page */
+"settings_pageTitle" = "Settings";
+"settings_section_preferences" = "Preferences";
+"settings_section_information" = "Information";
+"settings_setting_language" = "Language";
+"settings_setting_theme" = "Appearance";
+"settings_setting_currency" = "Currency";
+"settings_setting_aboutApp" = "About this app";
+
+/* Settings - Theme */
+"settings_setting_theme_system" = "Automatic";
+"settings_setting_theme_light" = "Light";
+"settings_setting_theme_dark" = "Dark";
+
+/* Content */
+"content_aboutApp" = "Text.";
