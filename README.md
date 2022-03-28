@@ -10,7 +10,7 @@ My app development background.
 
 - iOS development (Swift)
 - Front-end development, in particular responsive websites
-- React, in particular Gatsby: ES5/ES6, arrow functions, class components, functional components, routing, hooks, useState, useEffect, Redux, Context, Styled Components/Emotion, CSS modules, TypeScript, create-react-app
+- React, in particular Gatsby: ES5/ES6, arrow functions, class components, functional components, routing, hooks, useState, useEffect, Redux, Context, Styled Components/Emotion, CSS modules, TypeScript, create-react-app, etc
 - Sanity CMS and Contentful
 - HTML/CSS: SASS (SCSS), Flex box, Grid, Tailwind
 - Git (basics)
@@ -57,12 +57,12 @@ As always, open to learning new things.
 
 ### Learning sources
 
-- Smashing Magazine / CSS Tricks
+- Smashing Magazine/CSS Tricks
 - RayWenderlich (iOS)
 - Donny Wals, Swift by Sundell, Hacking with Swift (iOS)
 - Reading documentation
 - StackOverflow / Google
-- Twitter / YouTube
+- Twitter/YouTube
 
 ### Before I specialized in UX/UI (more than 10 years ago)
 
@@ -72,6 +72,12 @@ As always, open to learning new things.
 - PHP and MySQL
 - 3D Modeling (Maya)
 - FTP
+
+### Contact
+
+benny@chipchip.nl
+
+---
 
 ## chip2x-website-gatsby
 
@@ -155,10 +161,11 @@ Internal project (indie): Prototype cryptocurrency iOS app.
 - SwiftUI
 - CoreData
 - UserDefaults
+- R.swift
 
 ### Notes
 
-This is an internal project for an indie prototype cryptocurrency iOS app. This is my 3rd attempt of building this app in 3 years time. The focus was to learn the required technologies of this app (saving coins in multiple lists on a user device).
+This is an internal project for an indie prototype cryptocurrency iOS app. This is my 3rd attempt of building this app in 3 years time. The focus was to learn the required (new) technologies of this app (saving coins in multiple lists on a user device).
 
 ---
 
