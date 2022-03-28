@@ -99,7 +99,7 @@ https://chipchip.design
 ### Credits
 
 - UI/UX design and front-end development by Benny Chew
-- Icon design and illustration by Jenneke Choe
+- Icon design and illustrations by Jenneke Choe
 
 ### Notes
 
@@ -145,7 +145,34 @@ https://add-onn.com
 ### Credits
 
 - UI/UX design and front-end development by Benny Chew
-- Icon design and illustration by Jenneke Choe
+- Icon design and illustrations by Jenneke Choe
+
+---
+
+## Hihaho
+
+Client project (freelance): iOS app, iPhone and iPad. For privacy reasons the code cannot be shared.
+
+### App Store URL
+
+https://apps.apple.com/us/app/hihaho-player/id1031834953 (free)
+
+### Technologies
+
+- Swift
+- MVVM
+- Hybrid UIKit + SwiftUI
+- CoreData (recent videos)
+- WebView (for playing the videos)
+- ClassKit
+- QR code scanning
+- Open video in app
+- Dark mode
+- iPad support
+
+### Notes
+
+This is a production iOS app for a client in The Netherlands. UI/UX design by Benny Chew (implemented directly in code without Sketch or Figma mockups).
 
 ---
 
@@ -153,13 +180,10 @@ https://add-onn.com
 
 Internal project (indie): Prototype cryptocurrency iOS app.
 
-### App architecture
-
-- MVVM
-
 ### Technologies
 
 - Swift
+- MVVM
 - SwiftUI
 - CoreData
 - UserDefaults
@@ -175,35 +199,24 @@ This is an internal project for an indie prototype cryptocurrency iOS app. This 
 
 Demo project.
 
-### App architecture
-
-- MVVM
-
 ### Technologies
 
 - Swift
-- Decodable for JSONDecoding.
-- Combine publishers for networking (service).
-- UIKit UICollectionView diffable data source and compositional layout for the list pages.
-- Video player with AVKit. Custom video view with AVFoundation.
-- Theme class with a basic design system (colors, font sizes) that works in UIKit and SwiftUI.
-- R.swift for generating a type safe 'look up' class for the assets (fonts, images).
-- Experiment with a SwiftUI implementation of a page view within the UIKit world (base app uses UINavigationController). Using SwiftUI for some views can save a lot of development time, for situations where the 'old' UIKit features are not needed. Drawback of using SwiftUI is the minimum deployment target has to be iOS 13 or 14.
+- MVVM
+- Decodable for JSONDecoding
+- Combine publishers for networking (service)
+- UIKit UICollectionView diffable data source and compositional layout for the list pages
+- Video player with AVKit. Custom video view with AVFoundation
+- Theme class with a basic design system (colors, font sizes) that works in UIKit and SwiftUI
+- R.swift for generating a type safe 'look up' class for the assets (fonts, images)
+- Experiment with a SwiftUI implementation of a page view within the UIKit world (base app uses UINavigationController)Using SwiftUI for some views can save a lot of development time, for situations where the 'old' UIKit features are not needed. Drawback of using SwiftUI is the minimum deployment target has to be iOS 13 or 14
 
 ### External packages
 
-- SnapKit for auto layout.
-- Kingfisher for image networking (loading images into UIImageView).
-- PanModal (by Slack) for swipable modals. Can be configured to start at half height.
-
-### How to run
-
-- Open the API chipvideos-api in Terminal and run npm run dev. If the API is not running, the app will not work properly.
-- Run the Xcode project in Xcode 12 or higher with cmd+r.
-- If it does not build at first, try changing the Team at Signing & Capabilities to your account.
+- SnapKit for auto layout
+- Kingfisher for image networking (loading images into UIImageView)
+- PanModal (by Slack) for swipable modals. Can be configured to start at half height
 
 ### Notes
 
 This is a demo project I have put together to showcase my iOS development code for a potential freelance project. The context is a mobile app that plays videos (web view).
-
----
