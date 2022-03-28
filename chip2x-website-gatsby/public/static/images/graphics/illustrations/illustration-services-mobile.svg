@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / illustrations / illustration-services-mobile</title>
+    <g id="graphics-/-illustrations-/-illustration-services-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apps" transform="translate(1.000000, 14.000000)">
+            <rect id="Rectangle" fill="#3836B3" fill-rule="nonzero" x="0" y="0" width="372" height="256" rx="20"></rect>
+            <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" transform="translate(186.000000, 128.000000) rotate(90.000000) translate(-186.000000, -128.000000) " x="68" y="-48" width="236" height="352" rx="10"></rect>
+            <rect id="Rectangle" fill="#63C3EB" fill-rule="nonzero" x="30" y="30" width="54" height="54" rx="5.54"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="94" y="30" width="54" height="54" rx="5.54"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="30" y="94" width="54" height="54" rx="5.54"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="94" y="94.5" width="53" height="53" rx="5.44"></rect>
+            <rect id="Rectangle" fill="#3836B3" fill-rule="nonzero" x="249.86" y="98.93" width="184" height="344" rx="20"></rect>
+            <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="260" y="110" width="164" height="324" rx="10"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="260" y="110" width="164" height="324" rx="10"></rect>
+            <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="307" y="160" width="154" height="106" rx="10"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="360.5" y="198.5" width="64" height="10" rx="2"></rect>
+            <rect id="Rectangle" fill="#3836B3" fill-rule="nonzero" x="360.5" y="217.5" width="64" height="10" rx="2"></rect>
+            <circle id="Oval" fill="#3836B3" fill-rule="nonzero" cx="349.5" cy="203.5" r="6"></circle>
+            <circle id="Oval" fill="#63C3EB" fill-rule="nonzero" cx="349.5" cy="222.5" r="6"></circle>
+            <rect id="Rectangle" fill="#3836B3" fill-rule="nonzero" x="207" y="143" width="80" height="80" rx="12"></rect>
+            <circle id="Oval" fill="#387AF2" fill-rule="nonzero" cx="247" cy="183" r="26"></circle>
+            <circle id="Oval" fill="#63C3EB" fill-rule="nonzero" cx="247" cy="183" r="8"></circle>
+            <g id="Group" transform="translate(343.000000, 286.000000)">
+                <rect id="Rectangle" stroke-opacity="0.4" stroke="#8495A6" fill="#FFFFFF" x="-0.5" y="-0.5" width="155" height="47" rx="10"></rect>
+                <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="8" y="8" width="30" height="30" rx="2"></rect>
+                <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="46" y="14" width="58" height="6" rx="2"></rect>
+                <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="78" y="26" width="46" height="6" rx="2"></rect>
+                <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="46" y="26" width="28" height="6" rx="2"></rect>
+            </g>
+            <circle id="Oval" stroke="#3836B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="143" cy="277" r="7"></circle>
+            <path d="M143,284 L143.24,334.13 C143.394107,356.241688 161.397875,374.066626 183.51,374.000186 L235,374.000186" id="Path" stroke="#3836B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"></path>
+            <polyline id="Path" stroke="#3836B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="227 384 237 374 227 364"></polyline>
+            <path d="M152,413 C147.581722,413 144,409.418278 144,405 C144,400.581722 147.581722,397 152,397" id="Path" fill="#387AF2" fill-rule="nonzero"></path>
+            <path d="M152,397 C156.418278,397 160,400.581722 160,405 C160,409.418278 156.418278,413 152,413" id="Path" fill="#63C3EB" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#387AF2" fill-rule="nonzero" cx="182" cy="405" r="8"></circle>
+            <circle id="Oval" fill="#387AF2" fill-rule="nonzero" cx="212" cy="405" r="8"></circle>
+            <circle id="Oval" fill="#387AF2" fill-rule="nonzero" cx="152" cy="435" r="8"></circle>
+            <circle id="Oval" fill="#63C3EB" fill-rule="nonzero" cx="182" cy="435" r="8"></circle>
+            <path d="M212,443 C207.581722,443 204,439.418278 204,435 C204,430.581722 207.581722,427 212,427" id="Path" fill="#63C3EB" fill-rule="nonzero"></path>
+            <path d="M212,427 C216.418278,427 220,430.581722 220,435 C220,439.418278 216.418278,443 212,443" id="Path" fill="#387AF2" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#63C3EB" fill-rule="nonzero" x="46" y="271" width="54" height="20"></rect>
+            <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="46" y="305" width="20" height="20"></rect>
+            <rect id="Rectangle" fill="#63C3EB" fill-rule="nonzero" x="80" y="305" width="20" height="20"></rect>
+            <rect id="Rectangle" fill="#3836B3" fill-rule="nonzero" x="46" y="339" width="20" height="20"></rect>
+            <rect id="Rectangle" fill="#63C3EB" fill-rule="nonzero" x="80" y="339" width="20" height="20"></rect>
+            <rect id="Rectangle" fill="#387AF2" fill-rule="nonzero" x="297" y="357" width="84" height="106" rx="10"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="310" y="409" width="58" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="310" y="433" width="43" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="342" y="421" width="16" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="310" y="421" width="28" height="6" rx="2"></rect>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="339" cy="382" r="13"></circle>
+            <rect id="Rectangle" fill="#63C3EB" fill-rule="nonzero" x="391" y="367" width="84" height="106" rx="10"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="404" y="419" width="58" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="404" y="443" width="43" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="436" y="431" width="16" height="6" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" x="404" y="431" width="28" height="6" rx="2"></rect>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="433" cy="392" r="13"></circle>
+        </g>
+    </g>
+</svg>

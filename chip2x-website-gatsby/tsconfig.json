@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "es2015",
+      "es2017"
+    ],
+    "jsx": "react-jsx",
+    "jsxImportSource": "@emotion/react",
+    "types": [
+      "@emotion/react/types/css-prop",
+      "node"
+    ]
+  }
+}

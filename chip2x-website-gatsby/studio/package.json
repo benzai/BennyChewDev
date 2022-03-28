@@ -1,0 +1,30 @@
+{
+  "name": "chipchipcms",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "main": "package.json",
+  "author": "ChipChip",
+  "scripts": {
+    "dev": "sanity start",
+    "start": "sanity start",
+    "graphql": "sanity graphql deploy",
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "delete": "sanity exec helpers/deleteUnusedAssets.js --with-user-token"
+  },
+  "dependencies": {
+    "@sanity/base": "^2.22.0",
+    "@sanity/core": "^2.22.0",
+    "@sanity/default-layout": "^2.22.0",
+    "@sanity/default-login": "^2.22.0",
+    "@sanity/desk-tool": "^2.22.2",
+    "@sanity/vision": "^2.22.0",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {}
+}

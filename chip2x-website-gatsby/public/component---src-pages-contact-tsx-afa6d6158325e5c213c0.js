@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchip2x_website_gatsby=self.webpackChunkchip2x_website_gatsby||[]).push([[650],{802:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var c=n(7294),u=n(3684);const i={title:"Contact"};var s=n(1662),a=n(5529);function l({}){return(0,c.useEffect)((()=>{}),[]),(0,a.tZ)(s.Ar,{mainMenu:u.c,contactDetails:u.W},(0,a.tZ)(s.HJ,{title:i.title}),(0,a.tZ)(r,null))}function r({}){return(0,a.tZ)("section",null)}}}]);
+//# sourceMappingURL=component---src-pages-contact-tsx-afa6d6158325e5c213c0.js.map

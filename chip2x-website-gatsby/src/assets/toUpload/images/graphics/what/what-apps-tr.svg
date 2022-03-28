@@ -1,0 +1,17 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / what / what-apps-tr</title>
+    <defs>
+        <path id="a" d="M0 0h400v400H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill-opacity="0" fill="#D8D8D8" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <path fill="#387AF2" d="M120 100h240V40H120z"/>
+            <path fill="#3836B3" d="M120 280h240v-60H120z"/>
+            <path fill="#63C3EB" d="M80 190h240v-60H80z"/>
+        </g>
+    </g>
+</svg>

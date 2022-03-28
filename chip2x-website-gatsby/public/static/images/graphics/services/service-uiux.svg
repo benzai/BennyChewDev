@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / services / service-uiux</title>
+    <g id="graphics-/-services-/-service-uiux" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect id="IconFrame" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40" height="40"></rect>
+            <g id="all" transform="translate(2.000000, 2.000000)">
+                <path d="M22,36 L4,36 C1.791,36 0,34.209 0,32 L0,24 C0,21.791 1.791,20 4,20 L22,20 C24.209,20 26,21.791 26,24 L26,32 C26,34.209 24.209,36 22,36" id="Fill-1" fill="#3836B3"></path>
+                <rect id="Rectangle" stroke-opacity="0.2" stroke="#8495A6" fill="#FFFFFF" x="5.5" y="10.5" width="25" height="15" rx="4"></rect>
+                <rect id="Text" fill="#63C3EB" x="9" y="20" width="9" height="1" rx="0.5"></rect>
+                <rect id="Text" fill="#63C3EB" x="9" y="17" width="12" height="1" rx="0.5"></rect>
+                <g id="Group" transform="translate(10.000000, 0.000000)">
+                    <path d="M22,16 L4,16 C1.791,16 0,14.209 0,12 L0,4 C0,1.791 1.791,0 4,0 L22,0 C24.209,0 26,1.791 26,4 L26,12 C26,14.209 24.209,16 22,16" id="Fill-11" fill="#387AF2"></path>
+                    <polygon id="Fill-12" fill="#63C3EB" points="13 12 5 12 5 4"></polygon>
+                    <polygon id="Fill-13" fill="#FFFFFF" points="21 12 13 12 13 4"></polygon>
+                </g>
+                <path d="M9.9537,28.3846 L14.7107,27.4336 C15.0607,27.3636 15.3687,27.6716 15.2987,28.0216 L14.3477,32.7786 C14.2507,33.2596 13.5907,33.3286 13.3977,32.8776 L12.4137,30.5816 C12.3627,30.4636 12.2687,30.3696 12.1507,30.3186 L9.8547,29.3346 C9.4037,29.1416 9.4717,28.4806 9.9537,28.3846" id="Fill-14" fill="#FFFFFF"></path>
+                <path d="M9.4355,33.2965 L9.4355,33.2965 C9.0445,32.9055 9.0445,32.2725 9.4355,31.8825 L12.2635,29.0535 L13.6785,30.4685 L10.8495,33.2965 C10.4595,33.6875 9.8265,33.6875 9.4355,33.2965" id="Fill-15" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

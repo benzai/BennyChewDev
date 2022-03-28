@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / what / what-uxui-bl</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="400"></rect>
+    </defs>
+    <g id="graphics-/-what-/-what-uxui-bl" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graphic">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <path d="M237.571429,203 C239.464857,203 241,204.535783 241,206.43 L241,302.116 L309.112005,234.004561 C310.45142,232.665146 312.623467,232.665146 313.962882,234.004561 L351.55654,271.597361 C352.895955,272.936776 352.895955,275.108824 351.55654,276.448239 L288.004,340 L379,340 C381.209139,340 383,341.790861 383,344 L383,400 L383,400 L40,400 L40,344 C40,341.790861 41.790861,340 44,340 L133.555,340 L133.555,340 L70.0045613,276.449096 C68.6651463,275.108824 68.6651463,272.937634 70.0045613,271.598219 L107.597361,234.004561 C108.937634,232.665146 111.108824,232.665146 112.448239,234.004561 L181,302.556 L181,206.43 C181,204.535783 182.535143,203 184.428571,203 L237.571429,203 Z" id="Path" fill="#63C3EB" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="60px" viewBox="0 0 170 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / brand / logo-chip2x-dark</title>
+    <g id="graphics-/-brand-/-logo-chip2x-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Text" font-family="GTWalsheimPro-Medium, GT Walsheim Pro" font-size="32" font-weight="400" line-spacing="32" letter-spacing="-0.8" fill="#FFFFFF">
+            <tspan x="68" y="45">Chip2x</tspan>
+        </text>
+        <g id="logo-mark">
+            <circle id="Frame" fill="#F2F2F2" cx="30" cy="30" r="30"></circle>
+            <g id="bird" transform="translate(11.500600, 13.500000)">
+                <path d="M13.2,10.2 L13.2,16.8 L0,16.8 L0,16.9968 C0,26.1672 7.4328,33.6 16.6032,33.6 L16.9956,33.6 C26.166,33.6 33.5988,26.1672 33.5988,16.9968 L33.5988,10.2 C33.5988,4.5672 29.0328,0 23.4,0 L23.3988,0 C17.766,0 13.2,4.5672 13.2,10.2" id="Fill-6"></path>
+                <path d="M13.2,10.2 L13.2,16.8 L0,16.8 L0,16.9968 C0,26.1672 7.4328,33.6 16.6032,33.6 L16.9956,33.6 C26.166,33.6 33.5988,26.1672 33.5988,16.9968 L33.5988,10.2 C33.5988,4.5672 29.0328,0 23.4,0 L23.3988,0 C17.766,0 13.2,4.5672 13.2,10.2 Z" id="Stroke-8" stroke="#263340" stroke-width="3" fill="#FFFFFF"></path>
+                <path d="M13.2,25.2 L13.1988,25.2 C9.2232,25.2 6,21.9756 6,18 L6,16.8 L20.4,16.8 L20.4,18 C20.4,21.9756 17.1756,25.2 13.2,25.2" id="Fill-10" fill="#63C3EB"></path>
+                <path d="M13.2,25.2 L13.1988,25.2 C9.2232,25.2 6,21.9756 6,18 L6,16.8 L20.4,16.8 L20.4,18 C20.4,21.9756 17.1756,25.2 13.2,25.2 Z" id="Stroke-12" stroke="#263340" stroke-width="3"></path>
+                <path d="M28.8,9.6 C28.8,10.9248 27.7248,12 26.4,12 C25.074,12 24,10.9248 24,9.6 C24,8.2752 25.074,7.2 26.4,7.2 C27.7248,7.2 28.8,8.2752 28.8,9.6" id="Fill-14" fill="#263340"></path>
+                <line x1="33.6" y1="9.6" x2="38.4" y2="9.6" id="Stroke-16" stroke="#263340" stroke-width="3" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

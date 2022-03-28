@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / services / service-illustration-dark</title>
+    <g id="graphics-/-services-/-service-illustration-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect id="IconFrame" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40" height="40"></rect>
+            <g id="illustration" transform="translate(2.000000, 2.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" fill="#FFFFFF" x="0.5" y="0.5" width="35" height="35" rx="5"></rect>
+                <g id="Group" transform="translate(6.000000, 6.000000)">
+                    <polygon id="Fill-3" fill="#387AF2" points="12 12 0 12 0 0"></polygon>
+                    <polygon id="Fill-5" fill="#3836B3" points="24 12 12 12 12 0"></polygon>
+                    <polygon id="Fill-7" fill="#3836B3" points="12 24 0 24 0 12"></polygon>
+                    <polygon id="Fill-9" fill="#63C3EB" points="24 24 12 24 12 12"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

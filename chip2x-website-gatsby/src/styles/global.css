@@ -1,0 +1,298 @@
+/** 
+ * ----------------------------------------
+ * Reset
+ * ----------------------------------------
+ */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/**
+ * ----------------------------------------
+ * Fonts
+ * ----------------------------------------
+ */
+@font-face {
+  font-family: "GT Walsheim Pro Regular";
+  src: url("../assets/fonts/gtwalsheimpro-webfont.woff2") format("woff2"),
+    url("../assets/fonts/gtwalsheimpro-webfont.woff") format("woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro Medium";
+  src: url("../assets/fonts/gtwalsheimpro-medium-webfont.woff2") format("woff2"),
+    url("../assets/fonts/gtwalsheimpro-medium-webfont.woff") format("woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro Bold";
+  src: url("../assets/fonts/gtwalsheimpro-bold-webfont.woff2") format("woff2"),
+    url("../assets/fonts/gtwalsheimpro-bold-webfont.woff") format("woff");
+  font-weight: normal;
+}
+
+/**
+ * ----------------------------------------
+ * Theme
+ * ----------------------------------------
+ */
+:root {
+  /* Screens */
+  --screen_md: 768px;
+  --screen_lg: 1024px;
+  --screen_xl: 1400px;
+
+  /* Font */
+  --font_regular: "GT Walsheim Pro Regular";
+  --font_medium: "GT Walsheim Pro Medium";
+  --font_bold: "GT Walsheim Pro Bold";
+
+  /* Font sizes */
+  --fontSize_xxl: 160px;
+  --fontSize_xl3: 120px;
+  --fontSize_xl2: 100px;
+  --fontSize_xl: 80px;
+  --fontSize_lg3: 60px;
+  --fontSize_lg2: 48px;
+  --fontSize_lg: 40px;
+  --fontSize_md3: 32px;
+  --fontSize_md2: 28px;
+  --fontSize_md: 24px;
+  --fontSize_sm3: 20px;
+  --fontSize_sm2: 18px;
+  --fontSize_sm: 16px;
+  --fontSize_xs: 15px;
+
+  /* Colors */
+  --color_none: transparent;
+  --color_accent1: #63c3eb;
+  --color_accent2: #387af2;
+  --color_accent3: #2bc7dd;
+  --color_text1: #203040;
+  --color_text2: #4d5966;
+  --color_text3: #8495a6;
+  --color_altText1: #ffffff;
+  --color_altText1_60: rgba(255, 255, 255, 0.6);
+  --color_altText2: #ffffff;
+  --color_altText3: #ffffff;
+  --color_bg1: #ffffff;
+  --color_bg2: #f7fafc;
+  --color_bg3: #e9eff5;
+  --color_altBg1: #203040;
+  --color_border1: #e8eaeb;
+}
+
+/**
+ * ----------------------------------------
+ * Global CSS
+ * ----------------------------------------
+ */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+*,
+body,
+span,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+header,
+footer,
+nav {
+  font-family: var(--font_regular);
+  font-size: var(--fontSize_md2);
+  color: var(--color_text1);
+  line-height: 1.5em;
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none !important;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.resetLeading {
+  line-height: 1em !important;
+}
+
+/* Auto completion fix */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--color_text1);
+  -webkit-box-shadow: 0 0 0px 1000px var(--color_bg1) inset;
+}
+
+/**
+ * ----------------------------------------
+ * Tailwind hooks
+ * ----------------------------------------
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  @variants responsive {
+    /* Layout */
+    .wrapper {
+      @apply max-w-page;
+      margin: 0 auto;
+    }
+
+    .wrapper_blogPost {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  }
+}
+@layer components {
+}
+@tailwind variants;

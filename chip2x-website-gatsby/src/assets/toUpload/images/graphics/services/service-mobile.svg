@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / services / service-mobile</title>
+    <g id="graphics-/-services-/-service-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect id="IconFrame" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40" height="40"></rect>
+            <g id="mobile" transform="translate(7.000000, 0.000000)">
+                <path d="M5.75,39 C3.6825,39 2,37.2950667 2,35.2 L2,4.8 C2,2.70493333 3.6825,1 5.75,1 L18.25,1 C20.3175,1 22,2.70493333 22,4.8 L22,35.2 C22,37.2950667 20.3175,39 18.25,39 L5.75,39 Z" id="Fill-3" fill="#FFFFFF"></path>
+                <rect id="Rectangle" stroke-opacity="0.2" stroke="#8495A6" fill="#FFFFFF" x="0.5" y="0.5" width="25" height="39" rx="5"></rect>
+                <path d="M8,1 L18,1 L18,2.5 C18,3.05228475 17.5522847,3.5 17,3.5 L9,3.5 C8.44771525,3.5 8,3.05228475 8,2.5 L8,1 L8,1 Z" id="Rectangle" fill="#CED5DB"></path>
+                <g id="Group-5" transform="translate(3.000000, 23.000000)">
+                    <rect id="Rectangle" fill="#63C3EB" x="0" y="0" width="20" height="14" rx="2"></rect>
+                    <rect id="Text" fill="#FFFFFF" x="3" y="3" width="10" height="2" rx="0.5"></rect>
+                    <rect id="Text" fill="#FFFFFF" x="3" y="7" width="8" height="1" rx="0.5"></rect>
+                    <rect id="Text" fill="#FFFFFF" x="3" y="10" width="5" height="1" rx="0.5"></rect>
+                </g>
+                <g id="Group-2" transform="translate(5.000000, 7.000000)" stroke="#387AF2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                    <polyline id="Stroke-9" points="0 2 0 0 2 0"></polyline>
+                    <polyline id="Stroke-11" points="14 0 16 0 16 2"></polyline>
+                    <polyline id="Stroke-13" points="0 10 0 12 2 12"></polyline>
+                    <polyline id="Stroke-15" points="14 12 16 12 16 10"></polyline>
+                </g>
+                <g id="Group" transform="translate(8.000000, 8.000000)">
+                    <path d="M10,5 C10,7.76166667 7.76166667,10 5,10 C2.23833333,10 0,7.76166667 0,5 C0,2.23833333 2.23833333,0 5,0 C7.76166667,0 10,2.23833333 10,5" id="Fill-17" fill="#3836B3"></path>
+                    <path d="M7.34027592,4.69241314 C7.55324136,4.84620657 7.55324136,5.15379343 7.34027592,5.30758686 L4.39291455,7.42224655 C4.1277123,7.61256592 3.75,7.43185864 3.75,7.11465969 L3.75,2.88534031 C3.75,2.56814136 4.1277123,2.38743408 4.39291455,2.57775345 L7.34027592,4.69241314 Z" id="Fill-27" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

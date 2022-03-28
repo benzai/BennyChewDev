@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphics / services / service-development-dark</title>
+    <g id="graphics-/-services-/-service-development-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect id="IconFrame" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40" height="40"></rect>
+            <g id="webapp" transform="translate(2.000000, 2.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" fill="#FFFFFF" x="0.5" y="0.5" width="35" height="35" rx="5"></rect>
+                <path d="M12,36 L4.8,36 C2.1492,36 0,33.8508 0,31.2 L0,4.8 C0,2.1492 2.1492,0 4.8,0 L12,0 L12,36 Z" id="Fill-3" fill="#3836B3"></path>
+                <rect id="Text" fill="#FFFFFF" x="2" y="6" width="7" height="2" rx="0.5"></rect>
+                <rect id="Text" fill="#FFFFFF" x="2" y="12" width="6" height="1" rx="0.5"></rect>
+                <rect id="Text" fill="#FFFFFF" x="2" y="15" width="6" height="1" rx="0.5"></rect>
+                <rect id="Text" fill="#FFFFFF" x="2" y="18" width="6" height="1" rx="0.5"></rect>
+                <g id="Group" transform="translate(15.500000, 10.000000)">
+                    <path d="M9.14285714,11.4285714 C9.14285714,13.9531429 7.096,16 4.57142857,16 C2.04685714,16 0,13.9531429 0,11.4285714 C0,8.904 2.04685714,6.85714286 4.57142857,6.85714286 C7.096,6.85714286 9.14285714,8.904 9.14285714,11.4285714" id="Fill-10" fill="#63C3EB"></path>
+                    <path d="M16,11.5 C16,13.985125 13.985125,16 11.5,16 C9.014875,16 7,13.985125 7,11.5 C7,9.014875 9.014875,7 11.5,7 C13.985125,7 16,9.014875 16,11.5" id="Fill-11" fill="#387AF2"></path>
+                    <path d="M12.5714286,4.57142857 C12.5714286,7.096 10.5245714,9.14285714 8,9.14285714 C5.47542857,9.14285714 3.42857143,7.096 3.42857143,4.57142857 C3.42857143,2.04685714 5.47542857,0 8,0 C10.5245714,0 12.5714286,2.04685714 12.5714286,4.57142857" id="Fill-12" fill="#3836B3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
