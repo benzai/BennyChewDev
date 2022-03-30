@@ -4,13 +4,13 @@ App development projects by Benny Chew.
 
 ## My coding background
 
-My app development background.
+My app development background. I'm very passionate about development and always open to learn new things or improve my skills (I'm serious about my dev career). My goal is to become an indie developer and also work on cool freelance projects.
 
-### Experience with
+### Experience with (3 to 5 years)
 
 - iOS development (Swift)
 - Front-end development, in particular responsive websites
-- React, in particular Gatsby: ES5/ES6, arrow functions, class components, functional components, routing, hooks, useState, useEffect, Redux, Context, Styled Components/Emotion, CSS modules, TypeScript, create-react-app, etc
+- React, in particular Gatsby, including: ES5/ES6, arrow functions, class components, functional components, routing, hooks, useState, useEffect, Redux, Context, Styled Components/Emotion, CSS modules, TypeScript, create-react-app, etc
 - Sanity CMS and Contentful
 - HTML/CSS: SASS (SCSS), Flex box, Grid, Tailwind
 - Git (basics)
@@ -31,20 +31,15 @@ My app development background.
 
 - Advanced React, for example: Higher Order Components, web components, portals
 - Form accessibility (Aria)
-- Unit testing (only basic experience with unit testing in Swift and Jest)
-- Working in development teams (Scrum), I have worked with development teams before but not really in the scrum/GitHub way (pull requests etc)
-
-If possible I would like to gain experience with the above!
+- Unit testing (only basic experience with unit testing in Swift and basic Jest)
+- Working in development teams (Scrum), I have worked with development teams before but not really in the Scrum/GitHub way (pull requests etc)
 
 ### Zero to no experience (yet)
 
 - DevOps
 - Advanced Git commands
 - Performance profiling (Chrome Dev Tools)
-- Backend development
 - Advanced design patterns
-
-As always, open to learning new things.
 
 ### Also dabbled with (just for learning purposes)
 
@@ -55,23 +50,9 @@ As always, open to learning new things.
 - Flutter, I was very interested in Flutter so I spent a few weeks to a month learning Flutter, but in the end I prefer native iOS dev
 - Xamarin, A mobile app UI/UX client asked to me help build the app front-end in Xamarin, so I had to learn the basics (this part of the project got cancelled eventually)
 
-### Learning sources
-
-- Smashing Magazine/CSS Tricks
-- RayWenderlich (iOS)
-- Donny Wals, Swift by Sundell, Hacking with Swift (iOS)
-- Reading documentation
-- StackOverflow / Google
-- Twitter/YouTube
-
 ### Before I specialized in UX/UI (more than 10 years ago)
 
-- Flash development
-- Bootstrap/Foundation
-- Gulp/Grunt
-- PHP and MySQL
-- 3D Modeling (Maya)
-- FTP
+Flash development (ActionScript 3.0), Bootstrap/Foundation, Gulp/Grunt, PHP and MySQL, 3D Modeling (Maya)
 
 ### Contact
 
